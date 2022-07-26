@@ -1,4 +1,4 @@
-# FTF
+# FTF (search.py)
 FTF (Find The File) is a Platform and Privilege Independent Python Script to do a system wide search for a file .
 
 For Windows 
