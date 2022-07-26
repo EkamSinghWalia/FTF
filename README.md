@@ -22,7 +22,17 @@ For Linux
 # fileOdir.py
 
 Give it a path and this script will tell you whether the items the path is a file or a directory
-
 ```bash
-  python3 fileOdir.py
+python3 fileOdir.py
 ```
+
+For linux directly give the path with default separator
+
+![image](https://user-images.githubusercontent.com/106553324/181121872-283e8c01-d583-4b08-bef9-864e641edc64.png)
+
+For windows give the path with an extra separator eg. (\\)
+
+![image](https://user-images.githubusercontent.com/106553324/181122230-61556912-f292-4ad2-b21b-755904198e44.png)
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
