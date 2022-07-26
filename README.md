@@ -18,3 +18,11 @@ For Linux
 ![image](https://user-images.githubusercontent.com/106553324/181054163-8f5b18d4-d1c5-49c3-a4d4-e95b4ae38429.png)
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+# fileOdir.py
+
+Give it a path and this script will tell you whether the items the path is a file or a directory
+
+```bash
+  python3 fileOdir.py
+```
