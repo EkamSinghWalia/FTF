@@ -44,7 +44,8 @@ Find all files in a dir with ext py sh log txt etc
 python3 find_ext.py
 ```
 First input -> Give a path where you want to search the files
-Second input -> Give the type of extention eg .py .txt  .bat  etc
+
+Second input -> Give the type of extention eg .py .txt  .bat  .sh etc
 
 For linux directly give the path with default separator
 
